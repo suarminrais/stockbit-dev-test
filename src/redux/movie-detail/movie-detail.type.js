@@ -1,0 +1,7 @@
+const MovieDetailTypes = {
+  FETCH_START: 'FETCH_MOVIE_DETAIL_START',
+  FETCH_SUCCESS: 'FETCH_MOVIE_DETAIL_SUCCESS',
+  FETCH_FAILURE: 'FETCH_MOVIE_DETAIL_FAILURE',
+}
+
+export default MovieDetailTypes
